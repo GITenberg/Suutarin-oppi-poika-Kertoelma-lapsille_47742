@@ -1,10 +1,16 @@
 _repo: Suutarin-oppi-poika-Kertoelma-lapsille_47742
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gumpert, Thekla von
     gutenberg_agent_id: '44449'
     url: http://www.gutenberg.org/2009/agents/44449
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47742#Suutarin-oppi-poika-Kertoelma-lapsille
 gutenberg_issued: '2014-12-22'
 gutenberg_type: Text
 identifiers:
